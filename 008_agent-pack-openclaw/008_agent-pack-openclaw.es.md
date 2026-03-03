@@ -37,15 +37,15 @@ prerequisites:
 
 # Files included
 files:
-  - path: SOUL.md
+  - path: pack/SOUL.md
     description: Identidad del agente — quién es, cómo se comporta, valores
-  - path: AGENTS.md
+  - path: pack/AGENTS.md
     description: Operaciones — qué puede hacer, capacidades, plataformas
-  - path: skills/notion-juan/SKILL.md
+  - path: pack/skills/notion-juan/SKILL.md
     description: Skill de Notion con comandos disponibles
-  - path: skills/notion-juan/scripts/notion.mjs
+  - path: pack/skills/notion-juan/scripts/notion.mjs
     description: Script CLI para interactuar con la API de Notion
-  - path: README.md
+  - path: pack/README.md
     description: Guía de instalación y estructura del pack
 ---
 
